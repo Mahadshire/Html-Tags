@@ -1,1 +1,2 @@
-## Casharkaan Waa HTML Basics Wxa Aadna Ku Baraneysaa  HTml tags-Ka loogu isticmaal badanyahy 
+## HTML Basics
+# casharkaan waxa aad ku Baranaeysaa Tags-ka loogo isticmaal badanyahy HTML
